@@ -1,7 +1,17 @@
-.title {
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
 
+.title {
+  font-family: Merriweather, serif;
+  color: #82b1ff;
+  text-align: center;
 }
 
 .aboutme {
-  
+  font-family: 'Arapey', serif;
+  color: #d782ff;
+  text-align: center;
 }
